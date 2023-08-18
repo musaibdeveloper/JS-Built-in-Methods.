@@ -1,6 +1,6 @@
 // The isNaN() function checks if a value is NaN (Not-a-Number) or not.
 
- let num = isNaN(548);
+ let num = isNaN(548Js);
 
 console.log(num);
 
